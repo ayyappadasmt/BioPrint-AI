@@ -15,7 +15,7 @@ img_size = (128, 128)
 class_labels = ["A+", "A-", "AB+", "AB-", "B+", "B-", "O+", "O-"]
 
 # Streamlit UI Design
-st.set_page_config(page_title="Blood Type Predictor", page_icon="🧬", layout="centered")
+st.set_page_config(page_title="Bi0Print-AI", page_icon="🧬", layout="centered")
 
 # Custom CSS for hacker-style theme
 st.markdown(
