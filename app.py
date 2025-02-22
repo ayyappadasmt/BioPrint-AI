@@ -71,7 +71,8 @@ st.markdown(
 )
 
 # Title
-st.title(" Blood Type Predictor")
+
+st.title(" Bi0Print-AI")
 st.markdown("### Upload a fingerprint image to predict the blood type ")
 
 # File uploader
